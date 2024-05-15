@@ -1,0 +1,9 @@
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\ConvLib\bin\Debug\ConvLib.dll
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\ConvLib\bin\Debug\ConvLib.pdb
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\ConvLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\ConvLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\ConvLib\obj\Debug\ConvLib.csproj.AssemblyReference.cache
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\ConvLib\obj\Debug\ConvLib.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\ConvLib\obj\Debug\ConvLib.csproj.Up2Date
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\ConvLib\obj\Debug\ConvLib.dll
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\ConvLib\obj\Debug\ConvLib.pdb

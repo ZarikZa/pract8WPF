@@ -1,0 +1,6 @@
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\MVVMLib\bin\Debug\MVVMLib.dll
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\MVVMLib\bin\Debug\MVVMLib.pdb
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\MVVMLib\obj\Debug\MVVMLib.csproj.AssemblyReference.cache
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\MVVMLib\obj\Debug\MVVMLib.csproj.CoreCompileInputs.cache
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\MVVMLib\obj\Debug\MVVMLib.dll
+C:\Users\MSI-MODERN-14\source\repos\pract8Lib\MVVMLib\obj\Debug\MVVMLib.pdb
